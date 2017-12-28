@@ -11,4 +11,5 @@ Fitur-fitur :
 Supported :
 1.  Bahasa Pemrograman : PHP, HTML, CSS, JS  
 2.  Framework PHP : CodeIgniter              
-3.  Bootstrap                      
+3.  Bootstrap
+4.  MySQL Databases
