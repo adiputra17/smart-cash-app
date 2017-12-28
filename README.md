@@ -8,8 +8,7 @@ Fitur-fitur :
 3.  Export ke PDF
 4.  Input Agenda
 
-+------------------------------------------+
-| Bahasa Pemrograman : PHP, HTML, CSS, JS  |
-| Framework PHP : CodeIgniter              |
-| Bootstrap                                |
-+------------------------------------------+
+Supported :
+1.  Bahasa Pemrograman : PHP, HTML, CSS, JS  
+2.  Framework PHP : CodeIgniter              
+3.  Bootstrap                      
