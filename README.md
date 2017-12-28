@@ -11,4 +11,5 @@ Fitur-fitur :
 +------------------------------------------+
 | Bahasa Pemrograman : PHP, HTML, CSS, JS  |
 | Framework PHP : CodeIgniter              |
+| Bootstrap                                |
 +------------------------------------------+
