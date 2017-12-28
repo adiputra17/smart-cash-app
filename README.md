@@ -7,3 +7,8 @@ Fitur-fitur :
 2.  Statistik Kas
 3.  Export ke PDF
 4.  Input Agenda
+
++------------------------------------------+
+| Bahasa Pemrograman : PHP, HTML, CSS, JS  |
+| Framework PHP : CodeIgniter              |
++------------------------------------------+
